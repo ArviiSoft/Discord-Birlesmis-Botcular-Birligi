@@ -11,7 +11,7 @@
 ## ArviS#0011 -> ( [ArviS GitHub](https://github.com/ArviSlayer) )
  ឵ ឵ ឵ ឵ ឵  ឵ ឵ ឵➥ Bu adam içine kapanık ve publarla işi olmaz, kendi halinde öylesine bot mot kod yapar kendisine çok aşığım.
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/335159511725768705?hideDiscrim=true)](https://discord.com/users/335159511725768705)
+[![Discord Presence](https://lanyard.cnrad.dev/api/216222397349625857)](https://discord.com/users/216222397349625857)
 
 #
 #
